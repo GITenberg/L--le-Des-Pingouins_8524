@@ -1,0 +1,33 @@
+_repo: L--le-Des-Pingouins_8524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8524'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Civilization -- Fiction'
+- !lcsh 'Penguins -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Civilization, Western -- Fiction'
+- GITenberg
+title: L'Île Des Pingouins
+url: http://www.gutenberg.org/ebooks/8524
